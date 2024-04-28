@@ -2,4 +2,4 @@
 
 ## About this repository
 
-This is solely application focused and not developer focused. Please see the developer docs in the `CONTRIBUTING.m` guides in each Spedaro service repo.
+This documentation repository is solely application focused and not developer / development focused. Please see the developer docs in the `CONTRIBUTING.md`'s guides in each Spedaro service repo.
